@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Super (no se que es pero lo cambio)
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
