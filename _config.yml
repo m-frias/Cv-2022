@@ -85,6 +85,9 @@ content:
         sub_title: Administración Producción
         caption: Junio 2015 - Diciembre 2020
         quote: >
+          En Energia Global, mi tarea era la coordinacion entre departamentos y la asistencia en la produccion.
+          
+        description: | # this will include new lines to allow paragraphs
           - Administración de Producción.
           - Coordinación entre los departamentos de Producción, Ventas, Compras y Logística.
           - Ingreso y egreso de mercadería.
@@ -93,8 +96,6 @@ content:
           - Desarrollo eléctrico de toda la línea de producción.
           - Digitalización de cada desarrollo.
           - Integrante de un grupo de empleados encargados de la reestructuración de los procesos productivos de la empresa.
-        description: | # this will include new lines to allow paragraphs
-            En Energia Global, mi tarea era la coordinacion entre departamentos y la asistencia en la produccion.
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
